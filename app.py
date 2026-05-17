@@ -8,7 +8,7 @@ import re
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="OMAC AI Complaint Intelligence Tool",
+    page_title="OMAC AI EXCEL Intelligence Tool",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -213,7 +213,7 @@ with hcol1:
     st.markdown("""
     <div class="omac-header">
       <div>
-        <div class="omac-title">🏥 OMAC Complaint Intelligence</div>
+        <div class="omac-title">🏥 OMAC  Intelligence</div>
         <div class="omac-sub">AI-powered severity · affinity · harm tagging for complaint registers</div>
       </div>
       <div class="omac-badge">
